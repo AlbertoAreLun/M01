@@ -1,4 +1,4 @@
-package es.egc.app;
+package org.egc;
 
 /**
  * Hello world!
